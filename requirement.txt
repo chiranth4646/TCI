@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+passlib
+bcrypt==4.0.1
+pydantic
+pandas
+numpy
+scikit-learn
+emoji
